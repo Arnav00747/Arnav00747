@@ -40,7 +40,7 @@
 ## 🌐 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/arnav-kumar-8a42011ba
-- GitHub: github.com/Arnav00747
+- GitHub: https://github.com/Arnav00747
 
 ---
 
