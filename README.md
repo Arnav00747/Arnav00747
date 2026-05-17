@@ -1,18 +1,4 @@
-## Hi there 👋
-
-<!--
-**Arnav00747/Arnav00747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...<h1 align="center">Hi 👋, I'm Arnav Kumar</h1>
+<h1 align="center">Hi 👋, I'm Arnav Kumar</h1>
 <h3 align="center">Full Stack Developer | AI & Automation | AWS Certified</h3>
 
 <p align="center">
@@ -69,4 +55,3 @@ Here are some ideas to get you started:
 ## 🔥 Contribution Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arnav00747&theme=tokyonight)
--->
