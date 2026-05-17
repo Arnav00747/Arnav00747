@@ -44,14 +44,3 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Arnav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arnav00747&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav00747&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arnav00747&theme=tokyonight)
