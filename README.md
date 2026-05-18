@@ -60,7 +60,7 @@ Full Stack Developer | AI & Automation | AWS Certified
 # 🌐 Connect With Me
 
 - 💼 LinkedIn:  
-  www.linkedin.com/in/arnav-kumar-8a42011ba
+  https://www.linkedin.com/in/arnav-kumar-8a42011ba
 
 - 🖥 GitHub:  
   https://github.com/Arnav00747
@@ -68,6 +68,3 @@ Full Stack Developer | AI & Automation | AWS Certified
 ---
 
 ⭐ Building projects, learning consistently, and growing every day.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arnav00747/Arnav00747/main/githubgif.gif" width="700"/>
-</p>
