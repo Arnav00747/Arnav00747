@@ -5,7 +5,7 @@ Full Stack Developer | AI & Automation | AWS Certified
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arnav00747/Arnav00747/main/githubgif.gif" width="700"/>
+  <img src="https://raw.githubusercontent.com/Arnav00747/Arnav00747/main/githubgif.gif" width="1000"/>
 </p>
 
 <p align="center">
