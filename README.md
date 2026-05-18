@@ -16,12 +16,14 @@ Full Stack Developer | AI & Automation | AWS Certified
 
 # 🚀 About Me
 
-- 🔭 Working on MERN Stack Projects
-- 🤖 Exploring AI Automation & Cybersecurity
+- 🔭 Working on MERN Stack Projects & Real-World Applications
+- 🤖 Exploring AI Automation, APIs & Cybersecurity Concepts
 - ☁️ AWS Certified Cloud Practitioner
-- 📊 Learning Data Analytics & Dashboards
-- 🌱 Improving Backend Development & System Design
+- 📊 Learning Data Analytics, Dashboards & Visualization
+- 🌱 Improving Backend Development, System Design & Problem Solving
+- 🧠 Passionate about building useful tools and automation systems
 - 🎯 Goal: Become an Industry-Level Full Stack Engineer
+- 🚀 Open to Internships, Freelance Work & Full-Time Opportunities
 
 ---
 
@@ -64,6 +66,9 @@ Full Stack Developer | AI & Automation | AWS Certified
 
 - 🖥 GitHub:  
   https://github.com/Arnav00747
+
+- 📧 Email:  
+  arnavk9800@gmail.com
 
 ---
 
