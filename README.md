@@ -4,9 +4,7 @@
 Full Stack Developer | AI & Automation | AWS Certified
 </h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arnav00747/Arnav00747/main/githubgif.gif" width="1000"/>
-</p>
+<img src="https://raw.githubusercontent.com/Arnav00747/Arnav00747/main/githubgif.gif" width="1000" height="320"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Developer;AI+%26+Automation+Builder;Python+Developer;AWS+Certified;Open+to+Internships+%26+Full-Time+Roles" />
